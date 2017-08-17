@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FJPrivateLib_Tests' do
+  pod 'FJPrivateLib', :path => '../'
+  
+  
+end
