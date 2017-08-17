@@ -1,0 +1,16 @@
+PODS:
+  - FJPrivateLib (0.1.0)
+
+DEPENDENCIES:
+  - FJPrivateLib (from `../`)
+
+EXTERNAL SOURCES:
+  FJPrivateLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FJPrivateLib: 5cf561c49c0c230aea3f59134848ad00476e4f28
+
+PODFILE CHECKSUM: 4d92e0cbcb30e21137160e2af2402ae57bdf0c5a
+
+COCOAPODS: 1.2.1.rc.1

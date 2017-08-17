@@ -1,0 +1,6 @@
+framework module Pods_FJPrivateLib_Tests {
+  umbrella header "Pods-FJPrivateLib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

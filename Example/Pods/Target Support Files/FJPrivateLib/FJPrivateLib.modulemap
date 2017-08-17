@@ -1,0 +1,6 @@
+framework module FJPrivateLib {
+  umbrella header "FJPrivateLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

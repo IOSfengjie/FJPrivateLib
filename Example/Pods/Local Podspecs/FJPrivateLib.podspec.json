@@ -1,0 +1,22 @@
+{
+  "name": "FJPrivateLib",
+  "version": "0.1.0",
+  "summary": "A short description of FJPrivateLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/873942808@qq.com/FJPrivateLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "873942808@qq.com": "873942808@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/873942808@qq.com/FJPrivateLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FJPrivateLib/Classes/**/*"
+}
